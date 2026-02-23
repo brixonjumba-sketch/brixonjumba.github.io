@@ -2,7 +2,7 @@
 # Learning AI
 ## AI basics
 
-**Welcome** to we *can* academy where we meet our `future` 
+**Welcome** to we *can* ~~academy~~ where we meet our `future` 
 
 [MyGit](https://github.com/brixonjumba-sketch)
 [myLinkedin](https://www.linkedin.com/in/brixon-jay-9745393b2?utm_source=share_via&utm_content=profile&utm_medium=member_android)
