@@ -21,7 +21,7 @@
 | Tool    |            Purpose                 | Link                                         | 
 |---------|------------------------------------|----------------------------------------------|
 | Github  | sharing my work with the world     | [link](https://github.com/brixonjumba-sketch)|
-| Gitbash | Traing and learn more about coding | [link](https://github.com/brixonjumba-sketch)|
+| Gitbash | Train and learn more about coding | [link](https://github.com/brixonjumba-sketch)|
 
 
 - [x] Creating Github profile
